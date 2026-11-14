@@ -1,0 +1,9 @@
+{
+  "title": "OOBB U plates",
+  "summary": "Parametric OOBB U-shaped mounting plates in the available width, height and depth combinations.",
+  "parts": "Choose a U plate for the required opening and mounting arrangement. Mounting hardware is not specified by this catalogue.",
+  "assembly": "Prepare the selected print-adjusted mesh in your slicer. Check the opening, hole layout and orientation against the mating components.",
+  "modes": [
+    "3dpr"
+  ]
+}

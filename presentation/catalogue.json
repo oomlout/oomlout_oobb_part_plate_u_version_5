@@ -1,0 +1,2453 @@
+{
+  "schema": 1,
+  "renders": [
+    {
+      "id": "oobb_part_plate_u_10_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "11615e8ba4d2f19f7f2544035ad1f31217f68577b71201fe262e9580a1fcece5",
+      "image": "parts/oobb_part_plate_u_10_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        148.98,
+        15.0
+      ],
+      "key": "4ae84872131aa5611ffc61aa",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "e90d14cf8534e56866f9cdc659b5eb68c3e6ae48ff9a97c687f854e19e596939"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "74cf4766f55339926fc3b9cd727fa20f31c8ada78da77f4eaf2d6c4980128181",
+      "image": "parts/oobb_part_plate_u_10_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        148.98,
+        3.0
+      ],
+      "key": "7978bbe52e1f83e8179c7b60",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "270f9a4aed92b2e4e04fcad926cc3966eef923a80cb09f812d04d6f7494fded8"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "c1b95eac5669dfaa83ec21140834c690cf160a1fd0a92048155509a8c32cddc0",
+      "image": "parts/oobb_part_plate_u_10_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        43.98,
+        15.0
+      ],
+      "key": "4bff46315bc54fca70e912da",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "cfa594d15ae97338fb77d427adaddefc09ea0cbfbb975e97275ed747761beb0d"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "117dfac268379799114cea7bf1514a8240f2b821524d990878600e7297c657da",
+      "image": "parts/oobb_part_plate_u_10_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        43.98,
+        3.0
+      ],
+      "key": "da0970d5c3a039afa580fd87",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "2b5c147eb3c2ff80b54852441e0358f2481f559449781c6ef7fe874e7aea5aff"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "ab9cdeda59ae6528e1fcd8c8ec83e57068832940de194c45262afd03ffb43f24",
+      "image": "parts/oobb_part_plate_u_10_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        58.98,
+        15.0
+      ],
+      "key": "c1fc385b830b71ea8f59ffb8",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "e7e6b2f6e2ec4f2c08882039a8690cabeb14ed4f370792c552dbb13c2ec9fa0c"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "93243886ff7e9157b5882362085e2bacccd5facba2e9c91aa7b9445163978688",
+      "image": "parts/oobb_part_plate_u_10_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        58.98,
+        3.0
+      ],
+      "key": "7cc9787d5c901bb853c62134",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "6c852163e8eb52786aaaf3376056d0d8d3dfc388da183212d945df118daa483f"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "46c6f6ebb40e8451dcb4ee5860258b9df34f74ff1b93c3f1c72472ca999069a8",
+      "image": "parts/oobb_part_plate_u_10_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        73.98,
+        15.0
+      ],
+      "key": "d4f9ad76b559e5edf5890b55",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "966dc2fe25dc9af06bd91d1c2169cfa1e11b9ddbe03d2961b8703deafec691ad"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "3f5814bfec17b2b3f0f30ef8fa0e5a0122f2a5ff339fd4fe14f9aa9cf6f4ace5",
+      "image": "parts/oobb_part_plate_u_10_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        73.98,
+        3.0
+      ],
+      "key": "4402d67cd5b103d6353e7f49",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "3bf77827c6b0ad59b34d65a32285c456e5b1acde46a8c9667be6d8bf4be0fd47"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "e6a21958c518649f1710beee5cdd918a24034629f321f1dd8b0dfc40fafa816f",
+      "image": "parts/oobb_part_plate_u_10_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        88.98,
+        15.0
+      ],
+      "key": "85c36ea591905a8f08c2f107",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "2d88898860cfc4c8da96fa9e33e76582da33445cb3f728735481d24e8b54451c"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "aa0ca83b3ad985691a04c56d44e7af6292aa7d03d674d18ee5f274c64a1e45a0",
+      "image": "parts/oobb_part_plate_u_10_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        88.98,
+        3.0
+      ],
+      "key": "0566c1a09a03eafce8dd3c90",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "c798ca230b6cb4b217ddba57dccae40cbeddee8036263aa368cd3b099d06032d"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "edf871c113d096882969eb66a66f6e47cdbc3e78924075ce61334788c131821d",
+      "image": "parts/oobb_part_plate_u_10_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        103.98,
+        15.0
+      ],
+      "key": "c73aaac14a5dcfa35c7742c7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "a47357bdf086485eba9eab20b85f156efe3a1e93b0fbaf12ba58f262955bf22e"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "66341489f51cc6a4615d6f918040fe664b7d9b055895e548ce9a3ea600697116",
+      "image": "parts/oobb_part_plate_u_10_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        103.98,
+        3.0
+      ],
+      "key": "010cdbab8a0f84285b34b5c5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "660f445d64a9061abcee8a60feae5da193ed35f065ce6b1ea0454880a2064afc"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "4a1616470a74baad7d6872b728635fe5ae2429972d9b4387058df1b1098e295d",
+      "image": "parts/oobb_part_plate_u_10_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        118.98,
+        15.0
+      ],
+      "key": "e49c19db6b95a0b809596a6a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "83cdd341005f7592be39b43266be9bf2c018f7ef6c037b2d883825395594ea7c"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "b530110aa7a13d587ffd921b4318391f19ad06d6f0d9a5a3fe93a487c55b17fa",
+      "image": "parts/oobb_part_plate_u_10_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        118.98,
+        3.0
+      ],
+      "key": "c1a3a4c276dabea2b9139bc2",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "1fe4966e982bc2bb76dd43a6358540e1208a8c481ea2da52736916594a117899"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "a39bca2831e155fecf827e8d8065801e13d6e3a7773c3addc7f28a5fe3d0c519",
+      "image": "parts/oobb_part_plate_u_10_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        133.98,
+        15.0
+      ],
+      "key": "40cacb85f4d379294dbdef19",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "e6c3619d1ca81797555e3684d60a17615d5c4a169f4bf47e1a1e1419e8575d02"
+    },
+    {
+      "id": "oobb_part_plate_u_10_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_10_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "314e64016f74f7fc3a31930d68c672c8897093ad610821f9ad5dad521306408a",
+      "image": "parts/oobb_part_plate_u_10_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        149.0,
+        133.98,
+        3.0
+      ],
+      "key": "62c8db291b10aa6281f2b002",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 10 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "39d617c751c96e6bf2eb34b1f98d1733da4acca5b3884abadc5abb6eab766a02"
+    },
+    {
+      "id": "oobb_part_plate_u_12_width_12_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_12_width_12_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "ec58a448918cc4eea18dc40e30dcb404b69d307da34d480273f50b0efd234104",
+      "image": "parts/oobb_part_plate_u_12_width_12_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        179.0,
+        178.98,
+        15.0
+      ],
+      "key": "3b93afb5ce2b0a66bea58dee",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 12 Width 12 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "18bb7b16dadc849f5388b50931a3ade054a0f08f1cf5eff53f360b32f08afc8d"
+    },
+    {
+      "id": "oobb_part_plate_u_12_width_12_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_12_width_12_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "303918d9a5941ab9e5c7d38de2253106d24898502843f6e99a9950f5eaabc185",
+      "image": "parts/oobb_part_plate_u_12_width_12_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        179.0,
+        178.98,
+        3.0
+      ],
+      "key": "0408c0d5ffae377cd1d02101",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 12 Width 12 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "346d2d7aedd06f18fffdcea8191d4a4be1d6c5ea44630405b09d7aaeaee5cc93"
+    },
+    {
+      "id": "oobb_part_plate_u_13_width_13_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_13_width_13_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "9bd66ec9f086a35be7bc25283e1624e52ca2adf3089889106d10bac7fa5605c2",
+      "image": "parts/oobb_part_plate_u_13_width_13_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        194.0,
+        193.98,
+        15.0
+      ],
+      "key": "ffc15d564b37cf5b4b3f734a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 13 Width 13 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "3de46e10fb99807e1a7ce104ba3591d61f28dbc868b71f5281584f4f7eca5ec6"
+    },
+    {
+      "id": "oobb_part_plate_u_13_width_13_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_13_width_13_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "53a6def107c9da96e9b805e1c8552bca73ba37ecc55d3f3cdf6285b9d903a316",
+      "image": "parts/oobb_part_plate_u_13_width_13_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        194.0,
+        193.98,
+        3.0
+      ],
+      "key": "7d192ee1bb4dc895f4656da4",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 13 Width 13 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "140a6c80d27c4fb8bf6235f1c4825093612b1082f992cbaff47775ed69975172"
+    },
+    {
+      "id": "oobb_part_plate_u_14_width_14_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_14_width_14_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "8458579b592904e12f420657114dfd4aa9dc49b10e1aed0e1c9c0b2c712746a2",
+      "image": "parts/oobb_part_plate_u_14_width_14_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        209.0,
+        208.98,
+        15.0
+      ],
+      "key": "5909ffc16df0cbaa29574520",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 14 Width 14 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "db305a230d10480b301cae0b3c73b80383681d788833b50c85489be108f4eca9"
+    },
+    {
+      "id": "oobb_part_plate_u_14_width_14_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_14_width_14_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "43ae6b84087bb8c3eba98d986aac979f9cce00b19291a7a673f1942013327f6b",
+      "image": "parts/oobb_part_plate_u_14_width_14_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        209.0,
+        208.98,
+        3.0
+      ],
+      "key": "3d68ea450327fa58a36b9ae6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 14 Width 14 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "ceff9cab16e2e0f165e1cd1070a2dc605d61ff83bb11f75a5789a0e72ddac776"
+    },
+    {
+      "id": "oobb_part_plate_u_15_width_15_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_15_width_15_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "27c56d117b0db4bdb47c5b3c0e81fdd513990cf6dd2ac1e444e5edee118c0583",
+      "image": "parts/oobb_part_plate_u_15_width_15_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        224.0,
+        223.98,
+        15.0
+      ],
+      "key": "6248c0e8a9608a9bc7706994",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 15 Width 15 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "3ed3bfb0735bb2ca91272044d66962bf2056552454991b091aa73081b3f4b839"
+    },
+    {
+      "id": "oobb_part_plate_u_15_width_15_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_15_width_15_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "76bef6095b8c5f97eefe6e3ae6dcb34036597b4ac17906f5f2a7ae18758e0d01",
+      "image": "parts/oobb_part_plate_u_15_width_15_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        224.0,
+        223.98,
+        3.0
+      ],
+      "key": "1a1d6b831dd98d103c04208e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 15 Width 15 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "eb11eaf70bfac9ae6d7ed00fc4e9b3250d9318e3de99697fa209d667acc5daf0"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "75d27e70cb8c331774046af743cc68a48447cb73a91d5f398e6f8aac1c38e0af",
+      "image": "parts/oobb_part_plate_u_3_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        148.98,
+        15.0
+      ],
+      "key": "1f9ce64339d814bcfc169c90",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "420aeae93849ba981c957b8286545c08c985e736de0413c2e8d5d86d7a8ddc2d"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "ceb07bb24e1cc7e4fb087b3e8af600ebf741dba7e929aab7cfdb329222dff9b0",
+      "image": "parts/oobb_part_plate_u_3_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        148.98,
+        3.0
+      ],
+      "key": "83a58abc3cae91df6ab1cddc",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "455df774f63d829a0e19b063939dadbb56ca4e725e4f115752eac29336b51f94"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "077420afd33d0a6c59c7c783da14b9e2fee38e9d50c096750055318145bd19d0",
+      "image": "parts/oobb_part_plate_u_3_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        43.98,
+        15.0
+      ],
+      "key": "758e7022bef87db984b820de",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "2acafc3e85c0530560f9dc0f2976ff3a301a6cc2b85081e4c1c145ae0fb95f21"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "f843289b0dc47d02cc78f97cf9a126b315c0fcf2a9e3dc9639209bbfaa8a669c",
+      "image": "parts/oobb_part_plate_u_3_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        43.98,
+        3.0
+      ],
+      "key": "cd098b0d4c1eca253ee9fd45",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "9df84758b737132c711a85040d1895e90f5009bbb96371e71238959769019d1f"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "2046605eb02f9a427730862aaf5a9aa6331cee02b5155ae69ee90ac0f636d3e3",
+      "image": "parts/oobb_part_plate_u_3_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        58.98,
+        15.0
+      ],
+      "key": "b733c58fd1ccb627ccade374",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "9062af74d3f972861411752054f669ad29664438491a7dc80bb497c63aefb186"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "a2f14636dcd6691dd99e69e56db13f364d1de95e4b4497881895454f6f59248e",
+      "image": "parts/oobb_part_plate_u_3_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        58.98,
+        3.0
+      ],
+      "key": "cc12357b8b11f942f3628f95",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "04383838bfbd4bf8fa74b94fd09696493b11699e7ec664949912d0da46bdaf2c"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "de4fa6383cdb6861b6b4e811ccfeee56c94b04edf46d45724985b4ff3fa488db",
+      "image": "parts/oobb_part_plate_u_3_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        73.98,
+        15.0
+      ],
+      "key": "2e03ec7c7692129f587a98c1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "b524f6536e079d7b05a77a78a0562ffa3ba7779a6087d6aab1b76e01b3acd24a"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "81a3d4b3a665a5938c37797e326a862cc8cbfcf3ba752535264af867ffa3fff6",
+      "image": "parts/oobb_part_plate_u_3_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        73.98,
+        3.0
+      ],
+      "key": "9169632ad72ca74b5e563ed3",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "95bf2cd630778e10ed317051ddf1acabffc9d63688e7347a785bcfc69f63aa12"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "48af97cea80bf3a5f616039684818317c95149366206c7bb6ea45079d9a51609",
+      "image": "parts/oobb_part_plate_u_3_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        88.98,
+        15.0
+      ],
+      "key": "94e7087f5c084cb0cfc061bd",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "46e9e4157032ecec685040a78c625e44af35f9dfe5fef7e86284f0a81db63612"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "743562c83c56df3358a107234741b78c3cbbab4a77b1e14dd6baf476944c5adc",
+      "image": "parts/oobb_part_plate_u_3_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        88.98,
+        3.0
+      ],
+      "key": "6f5736df57f227596ca0d672",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "cbf2f14a86b27a295c093e431a69aefe846459fafa1f028a6be99e59116e8ec3"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "504b6c6728365b673474143a6f04ff9abc475f3084ca884af664e6e45826b1e9",
+      "image": "parts/oobb_part_plate_u_3_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        103.98,
+        15.0
+      ],
+      "key": "14ec3e8507d72fcda5d06105",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "57807db9db83f63fe982d2ca51be4e6a94c45caf86c864606e14836201a4dac2"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "318168f9d7e502452f8613b1eb0c8d36f32a2d3fa71a7f677a8892665c63e0b5",
+      "image": "parts/oobb_part_plate_u_3_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        103.98,
+        3.0
+      ],
+      "key": "cfb12f83eff5d541cce7ce14",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "e6de8bce70662b1af740df1d6b17ed9d9ed33301cec99c2dd07a4285bec99f4b"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "6483c67bcb4734d8a6557151b5ecbc52628f4e527dc2f911cfb3d543a59bc5d0",
+      "image": "parts/oobb_part_plate_u_3_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        118.98,
+        15.0
+      ],
+      "key": "27e9dffaf628c35b60a7b39d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "8302fd5d63a2864d6a006b8c61f11709a9872d80bcbc9fbe75432dafedafafad"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "11636f5df5ef40397aadbcb841dcb45ea83b0c720daf1fed25110388fec3443e",
+      "image": "parts/oobb_part_plate_u_3_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        118.98,
+        3.0
+      ],
+      "key": "c62f48c18bf1b7c45177e605",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "b36fbeb9ae8008a88e7f850308ff752749c511514b029a343c13187c1a639aac"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "4e9f504d65c44dafc935a5656992a5ae2b03b34a9a7f46e6923c799bfd2d696b",
+      "image": "parts/oobb_part_plate_u_3_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        133.98,
+        15.0
+      ],
+      "key": "3f3717985d5855eda4a9a3e7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "14174d972aeba8c762697893d0b6f067402a112fd6883e996b6cc079e7532851"
+    },
+    {
+      "id": "oobb_part_plate_u_3_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_3_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "5613e76daa773c1ef7e937bf98a87624582eaa4dbdc41fb5aa27b4b7c3b2ba63",
+      "image": "parts/oobb_part_plate_u_3_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        44.0,
+        133.98,
+        3.0
+      ],
+      "key": "6f51cc4ccb809af7e829559a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 3 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "025fc34be6c5d7075d2fd9d61930df275bc12bedbed68e092cdcc730ac684270"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "5aa5c773764445999ed79df3158adb247febb7a29d556aa0c1b23de75e8c1a3a",
+      "image": "parts/oobb_part_plate_u_4_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        148.98,
+        15.0
+      ],
+      "key": "e9a571201f77fc20eea5576c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "3574eadaad44c1bdd123dd830d5c87181030196521260466d13209286230e08f"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "1f03758f293206be930cc7b3c83f8569115dbffda6390b1b114de8ec5fba5ea0",
+      "image": "parts/oobb_part_plate_u_4_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        148.98,
+        3.0
+      ],
+      "key": "31f4ef12be256239b0f909a7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "7260211b4a514e507edbf26f3c906797cec8995a97c77f535c51ebc68927cb2b"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "a43312e6c89aa52e72ce4920eb6b2c921305d707d73c706786a262dc250afba6",
+      "image": "parts/oobb_part_plate_u_4_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        43.98,
+        15.0
+      ],
+      "key": "2061b00cd0bd6e9b9a1e762c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "ebdf6a57cc0c7c90b0677b93588eb3d0f7d7c11d5320ea4337597e602fabd006"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "b02d60c687567690700a66d761f20f283fc645146900d20c09f77183495dc6b0",
+      "image": "parts/oobb_part_plate_u_4_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        43.98,
+        3.0
+      ],
+      "key": "65c085519b65904bb017aeb6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "ea31843e42ae9fccbfa98632e3a236e780b059a656c9546f231483897d114464"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "88868eae09badf913c4487646ba7552592088cf640d7a2800a5cb720cd8bcba9",
+      "image": "parts/oobb_part_plate_u_4_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        58.98,
+        15.0
+      ],
+      "key": "5d0e5092710fc35010eff1c1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "028173c4aae968b515f78a6fa28750faa14ad50bafce29ade5644e3aa71be25f"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "8f302db35d410221d72317435d1aa5478addf0c03036c35f50b1d3657faa506c",
+      "image": "parts/oobb_part_plate_u_4_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        58.98,
+        3.0
+      ],
+      "key": "485eddcd837f121d41e06a52",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "2418b410bb6e09e5644ae12e14c94ea7db639451521ea6afb0f58aee8ef5beb3"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "a77c6a7bd9e59c277cf3abd260063bf605b787950abf0b5b18aee97b9cb5c14d",
+      "image": "parts/oobb_part_plate_u_4_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        73.98,
+        15.0
+      ],
+      "key": "20ebc09763cdd8e4e8369db3",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "27054048e15549592375368cfe363512f47b01c74862324d4051c2b9f01ed0bd"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "958a9b42f41a221d82d57020ca7f014c527fa8464dc676b0e2bf114433fbbf38",
+      "image": "parts/oobb_part_plate_u_4_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        73.98,
+        3.0
+      ],
+      "key": "9a94e06fc2718441c3ec816e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "e8252f8f6170412b5a7695aba6b5d9a5f3ce1ff79d13d9314460c8dcb61810bd"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "91b4db2401650002f93b2f15419211dbd7376df25095652d1701afa85ea44c85",
+      "image": "parts/oobb_part_plate_u_4_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        88.98,
+        15.0
+      ],
+      "key": "86d9ae1c5737a2f9de2fa852",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "50d855ab283afffc7af4bdff853d3543986d1ad76ba23c9f5383f983a689ac93"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "024c0c671a78cc33d00e6e6e288dbebc67576fc2369249938042555850af8151",
+      "image": "parts/oobb_part_plate_u_4_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        88.98,
+        3.0
+      ],
+      "key": "b9acd4289da112e6a7851692",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "44c971f37ad362a332715396d6ad68717de25fb9f69ee704824ae2f8d5cc4fcb"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "f751515a9e81b9c47163c53d0e462f26dbaf58120b824226bbac46f556994be4",
+      "image": "parts/oobb_part_plate_u_4_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        103.98,
+        15.0
+      ],
+      "key": "3995a2ffc3c4d0544100bb2e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "8d519deb78bcdd7f701ab56d83ee22bf60d745064c954707ceb0cc6b4394a90b"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "1e601b1a02eec12ab121b2ad59a8a9cea25d7b13e35a14315610c9af7d2e6a8c",
+      "image": "parts/oobb_part_plate_u_4_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        103.98,
+        3.0
+      ],
+      "key": "89519d2ba3c240d406c59bc0",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "a74322242e5536937fb31a6ff0aaf97524547018572252dd1bd4469afdeffacc"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "ed7b789e6dd900794c44acb0cc3ba55ae95a98fa2022c7500bc5e5d8d9bb50be",
+      "image": "parts/oobb_part_plate_u_4_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        118.98,
+        15.0
+      ],
+      "key": "a37029f1e737a6eb0d732c6c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "07eeb0085c0ad85c7b9084a772a3c8bbb714e69a6881c93a9817179149b9d0a9"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "bebb1d9441a6e9f0c413f79125e8b391da1b08befa6d12e7ff3533020d147254",
+      "image": "parts/oobb_part_plate_u_4_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        118.98,
+        3.0
+      ],
+      "key": "9e4117cc252005f1a377ca8c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "f6ceee47aadfaa6ab15befc88af929afd3631b68b175088bf8c82f289d965be3"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "cf15eb695f255e9ea2e5c81671dac3aa38d57f8f8e14cd651723ec05d2b0b51c",
+      "image": "parts/oobb_part_plate_u_4_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        133.98,
+        15.0
+      ],
+      "key": "9031df691c7d1dfc5f46769f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "835cc6c407e2b8912e7804f4480166ba9a98c0506d23fe92cebea4907d37e134"
+    },
+    {
+      "id": "oobb_part_plate_u_4_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_4_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "6d415146d54d0505a57bc264a58e53ac0555b12f47c75c64c1a8bc8433ea5f7c",
+      "image": "parts/oobb_part_plate_u_4_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        59.0,
+        133.98,
+        3.0
+      ],
+      "key": "766e46e51f5701ebb9997e82",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 4 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "519d640ebb0473c883469acb172b793842907676ca73a5f3154996648a63204d"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "fd8753f9b11bb7f25d376685b0a1bd4b14ade40188a4e86ed906e86f2d968b6a",
+      "image": "parts/oobb_part_plate_u_5_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        148.98,
+        15.0
+      ],
+      "key": "e770f3743c48a8937cce1588",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "36253682d0d4499ce1a337d9b9c056b9f7f4774b42df3cce9b70b7465e8ab2ae"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "014afe6ddd5ebdf48f1cc3ea0bad416d64f5b4b09e756ad57caa9009894f64ac",
+      "image": "parts/oobb_part_plate_u_5_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        148.98,
+        3.0
+      ],
+      "key": "fa1273d1786101939bae6177",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "54c6add9e54d2776750b3b4b40cbb245742b1f0e7be386c480a7ce7767dcde92"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "a48c572d5ec11dee32df14c3cd8fdc784ad78edcddf8bd14d68ae978fdad08d9",
+      "image": "parts/oobb_part_plate_u_5_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        43.98,
+        15.0
+      ],
+      "key": "114d81717c553daa8e918acd",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "f090a13fb3ab182e6bbb51980c612dc7dccbc7db73875b73178f761b5804b77a"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "ea651eb3bb8c4a55b2a7fa98b8bc3ced5807287097a628874c61936840011e15",
+      "image": "parts/oobb_part_plate_u_5_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        43.98,
+        3.0
+      ],
+      "key": "6fec17bafea78a613f2a8dfd",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "8d79720bc0593e124758888466c089750ba7334425aac5b512e0aad74996f3cd"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "86f23100706b2d047c231feec07739f8b9003d7d88375998953abd902d920f15",
+      "image": "parts/oobb_part_plate_u_5_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        58.98,
+        15.0
+      ],
+      "key": "f0e313497f2094db76fb8eaf",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "2046bc83c111f037bde01b28111f5aca9d19462a1c922617ef3063c4c6d88e39"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "238133479c2c0edd37f78cc679aecdcc00b17d9b59f712f96a9055e91ba5d621",
+      "image": "parts/oobb_part_plate_u_5_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        58.98,
+        3.0
+      ],
+      "key": "2fcc032a979f22451e1bd5ca",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "f2984993893df475fb91e63405533b8fca97bd313a15d893b4ae9b864e122e0a"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "631111f9206eac2eaf33e96cb93133c7ced20d91797e6e75b92cba6d49abe25f",
+      "image": "parts/oobb_part_plate_u_5_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        73.98,
+        15.0
+      ],
+      "key": "d57822fbbca03fc487d27fe2",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "321dafa2460ff2e76ecfbe3a21ffcd024a148e0a159d20ef73b55ca524f2ae59"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "76e74fb4adbaa49225fe254d25ff2be13548f068dfc6aae6547dc2b724216d47",
+      "image": "parts/oobb_part_plate_u_5_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        73.98,
+        3.0
+      ],
+      "key": "689faebddaa1972538aad0a0",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "9069de611e186603937d8b36002ecaef4a24f61d28da88d154b18d2f4b3736ea"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "ad68e9c635abbc2766c70e5f454d60ffaf7e80d1759c2d9cca5c4c1ab7692e25",
+      "image": "parts/oobb_part_plate_u_5_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        88.98,
+        15.0
+      ],
+      "key": "f9a5ff65003cb18420ef95b5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "88436009593e4dba01cbc405c5ac66e09f40d4154e465ea26aabac0f3cd83728"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "0f3f7f74444dc45aa4c4b9b6c1fd3025923b19c702d79255d991a43b29ba7ba9",
+      "image": "parts/oobb_part_plate_u_5_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        88.98,
+        3.0
+      ],
+      "key": "e5ee46e627773b2f0a66f0fb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "1e2f6df16a4dcdd9d1cf7861934f75a1c28a8c41d80cb731097d8281ea456241"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "f0c02f65ef7708998625b14f4d5fb39114a9a30bbe632d2f3b9920f07b8f4fe4",
+      "image": "parts/oobb_part_plate_u_5_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        103.98,
+        15.0
+      ],
+      "key": "fdde2b5066845df3e6b57a80",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "6a5d3e3d5749e97a637b3a5b81b7dc079b1097ae28975e7e6675ebe9d82d0d17"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "a6a4c30bd630b502716d36a7fd607354c42a95770076784a44a1ac3df3dfc239",
+      "image": "parts/oobb_part_plate_u_5_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        103.98,
+        3.0
+      ],
+      "key": "327366e6f71fa5c5763ab13c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "7ab9b026320e1d98d3a7882f83fb3ed46ece6c30e98f8613e22a06740391ac59"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "a5e8195a8173956e535c0da1bb8eee088e7013810bc27a5dd16d864470116c69",
+      "image": "parts/oobb_part_plate_u_5_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        118.98,
+        15.0
+      ],
+      "key": "7d06ddbca179c7c90c2d07cb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "c28e61a02f2b896f43590cd767924eb79b1510e732bd7f08afc2c3e729f5775d"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "32ffda4f6d1f80c8221081ab5f79df807e12568e37eafbda22167dfd945429bb",
+      "image": "parts/oobb_part_plate_u_5_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        118.98,
+        3.0
+      ],
+      "key": "4bbb87b438252ec2d1126d2c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "1f5ec34b82d90303b2a640c4b827f5c94c4d35813c0557babb957b8f516fe48c"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "c5a11304aaa64377aa086bc8b7c4ccf178e813a206954b31f360dbc163430eb3",
+      "image": "parts/oobb_part_plate_u_5_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        133.98,
+        15.0
+      ],
+      "key": "4ab9fc2f7e74a872cda3b53c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "8554caff86fe1355964655041273a039a0fbc3ff293e823d4df5081f82a8bbf6"
+    },
+    {
+      "id": "oobb_part_plate_u_5_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_5_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "a995a2e198768bb3cc2c035502acfab8f0edbc432e7f9c3b8f8d0ff318cd2e05",
+      "image": "parts/oobb_part_plate_u_5_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        74.0,
+        133.98,
+        3.0
+      ],
+      "key": "f38e412d2fe69b1635a4dbe5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 5 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "5627e86cda2c21756c83fd1a719ddb32cb7ce3dd57b67009bbe6f070e13f760d"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "4cf40aa0c291d1e4f5e2525f6ff5ff5a09f4da9a00911857f6d1745724fbefdd",
+      "image": "parts/oobb_part_plate_u_6_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        148.98,
+        15.0
+      ],
+      "key": "f8363c136a27eabeb806f2f4",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "1b20df476723b91f1b538dd39c8e6b1cac2b34afa309390962255e0b2881deef"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "84897961485ab68ea110cbc958bb5c0061fffd9c8fe0da612d77b8fa2c437c7e",
+      "image": "parts/oobb_part_plate_u_6_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        148.98,
+        3.0
+      ],
+      "key": "4d1a258c819b1f2179aca255",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "940d026b4c81672cb7a2efedd2e88fcdb9887c9a2b15ea552b855a80c22af5cf"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "077cd7d31ac6bfbd83fc1e69171be5ecea2c04134047de80f4eae7bc45e6c93c",
+      "image": "parts/oobb_part_plate_u_6_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        43.98,
+        15.0
+      ],
+      "key": "9d185ace047d8bf7c789927d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "0181f54a6abd157526a8842c35426ae7e0b21197d5832e4b2eb744139854d0be"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "cbd946fd1c97ac0f23c0bd72357592e9cddc2e7e83c0c7a8190d796b5d15dc52",
+      "image": "parts/oobb_part_plate_u_6_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        43.98,
+        3.0
+      ],
+      "key": "4a37cb567958170fef1d6448",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "cc0aedea73ca649a81425e1aea5ac12503453f5b728ef0f03b1cae7eb51a18db"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "f85017bf492cff61c8a2bdbfb56049b9927d902bc2c085329d6538d1ee279b73",
+      "image": "parts/oobb_part_plate_u_6_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        58.98,
+        15.0
+      ],
+      "key": "2d144acfc065bd3e6c9930ce",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "30b774f4f9dc8981a276793813a3eae4e0ae9bf0233da0dcb5f7db6677806402"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "a1e97cb4b1c6e95545744caf28e37e7f4fbc2b3b1d669a7f6217b531e639d913",
+      "image": "parts/oobb_part_plate_u_6_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        58.98,
+        3.0
+      ],
+      "key": "c144345e8ae588c0e50ce2cf",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "6d58ae5e1c0cc1c6422d8481fb1a8e832672e4087807174c47348f7e93526416"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "dafd253141b20b0eb297c33dbd1ad9e5bbd788aeecd335281be11387b43b455c",
+      "image": "parts/oobb_part_plate_u_6_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        73.98,
+        15.0
+      ],
+      "key": "09cdecb986ea1085a36d650c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "897cb4622d37f87c2ec0a71a188433ff11d61f1b7dd23f19a122c129676ab012"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "6650dd50cda49e4187ec1adf79982b2202d0d5cb45c23dab5ad82c509a19b120",
+      "image": "parts/oobb_part_plate_u_6_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        73.98,
+        3.0
+      ],
+      "key": "bec5487d4495b18860b192a2",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "974085bb186345308d7694795b694fe1965a9ab543b9414931d8e450c00d0066"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "65f208e1c568bd776e78733f2ef5de22101293f142c0e6161bae93db80dde1c0",
+      "image": "parts/oobb_part_plate_u_6_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        88.98,
+        15.0
+      ],
+      "key": "fbfeae30e9087801f79b0416",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "f434926a37071763383b1c4181753e2e3174ee12dc6830e9def9ffe925493633"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "b46aaaa1aecdd687c73cc56fb2c04ada5eee36751269bbb6f0a847d6a67ae6a1",
+      "image": "parts/oobb_part_plate_u_6_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        88.98,
+        3.0
+      ],
+      "key": "6c79c94201ba90eb839a236c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "ecfb21788c508790b892ee9e3368431bcab713e27fb7597ab94e550b0e9f7d13"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "537d1fe7403efd2343e66c4ca390b0dba5122dab4e5ac60e6b5c6267f3eaa68f",
+      "image": "parts/oobb_part_plate_u_6_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        103.98,
+        15.0
+      ],
+      "key": "764d58c1c6ac6314757ee87a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "851fac55572ef7572de522eee0845251520a0afb58ee56520bc101977f4af746"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "d0edddcab7db04734b11372d3c0463bc77e58143f04e8141d706c2ce7f320f12",
+      "image": "parts/oobb_part_plate_u_6_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        103.98,
+        3.0
+      ],
+      "key": "feec4c2f86c25cc5ad10af7e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "2f0f23866f81fefa727b01595175135b4c44e5370640acc3264f739075a2e8ad"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "60cbe5c9c8ac573147a0839d59c20695e1b095c36f157c67b591ba5c529e5f21",
+      "image": "parts/oobb_part_plate_u_6_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        118.98,
+        15.0
+      ],
+      "key": "48b2e8be6e399e06bc3a096f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "74c3f34ff53cf0d305bd383d2e048727d98090c24d9da0d28ee9d467129905d2"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "f4b9f96cd51d5f62f6f4b50c92e26fc0c72667e3a00f9d90ec5322f12e5b9ed1",
+      "image": "parts/oobb_part_plate_u_6_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        118.98,
+        3.0
+      ],
+      "key": "543a03155d4de1f01213bf26",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "30f401496506f562cabc92526c271685fc7591cfb23a4c0035ff59eb080f69c9"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "2f748ca577e1c080038dade33cabf2e5ba98d45d934882f0e27355989d0bfb92",
+      "image": "parts/oobb_part_plate_u_6_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        133.98,
+        15.0
+      ],
+      "key": "e3302e447f0a65092079970e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "ea18b30b6440fb08d1b48b5786354879da29875d9d3b9ce90565791605e2dc1c"
+    },
+    {
+      "id": "oobb_part_plate_u_6_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_6_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "f490f962234bb7eda1cc83524cc0af3110fa7f028a73719e4722c83534a29589",
+      "image": "parts/oobb_part_plate_u_6_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        89.0,
+        133.98,
+        3.0
+      ],
+      "key": "64e53337a0ebcae36564e15d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 6 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "8cb289b9ce1234e56c0c47cc2bc598e6f89e6c258f561425ec6844aa357ec929"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "4e59e778758cc63efd9488547ddb66f607e033889df072a64db82141158e1c89",
+      "image": "parts/oobb_part_plate_u_7_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        148.98,
+        15.0
+      ],
+      "key": "f3bfafacd60a6ad8799e479a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "b30aafc7724ce81c953e3093a3280af8a8d017c8a12cae3ebebb007ee5c5060c"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "66f18287fb51c7b7b48d29103f5033bb79b762e6a0cd0d801c6672213f65d62c",
+      "image": "parts/oobb_part_plate_u_7_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        148.98,
+        3.0
+      ],
+      "key": "3d1913d55f9338d374507efe",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "cb458113f5716df1dc04805cb41a9fdaac29f40437676945f9a5a4cf858a2993"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "99cdf10a2c0eea78bb21ea124f5a186dab68fe532209fb51d57cdd2dc9ace654",
+      "image": "parts/oobb_part_plate_u_7_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        43.98,
+        15.0
+      ],
+      "key": "46206180ca61df149c5b5f03",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "e5e26664919965571b5a5ca534ea4046704071a2b0ae5bda34b6b78911bbfbf7"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "9e2d77ed02855aad1d2487c0e0b3116382ca347d0cef179e33784cedf8891b88",
+      "image": "parts/oobb_part_plate_u_7_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        43.98,
+        3.0
+      ],
+      "key": "a888157ea31a30d5d3c42741",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "4e96feee93adfd66d11da9ca7f58013da192909fb7210c50f162c185f49b84ad"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "d33ecf8bcf2ee4ee1e33c47b5848fda2517f833b23bbceee1c8b77e136b57664",
+      "image": "parts/oobb_part_plate_u_7_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        58.98,
+        15.0
+      ],
+      "key": "4aaf4b53384e868db3b96d48",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "0e0d45a267aeb6c33c55e5e5337096c834acae7440a88574b16689c0e4e967b6"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "b55c9eb218b1b8ece0fa08be5dc32d3191604ebded66bc19a10bf20c56478954",
+      "image": "parts/oobb_part_plate_u_7_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        58.98,
+        3.0
+      ],
+      "key": "d77dc53bf6acff43f8e6cfa0",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "1d35f178a9c6095bc76654d52f0ededbcfe6f95249b75db2e97030d3084caa86"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "40fa948c390d49599dfb3cc1f18ec0ca12d99f91f5fca6de43e58e8511e60e9a",
+      "image": "parts/oobb_part_plate_u_7_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        73.98,
+        15.0
+      ],
+      "key": "47d693336352a3d9193bf515",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "c52c5c130f8045c7449f59e3673997c1ffb7dbb25ee44a4cb9c38586acaa5b49"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "b0139647d71d125869a1e3a9741547988d557691c04063f34ed5a510ac205509",
+      "image": "parts/oobb_part_plate_u_7_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        73.98,
+        3.0
+      ],
+      "key": "f3ac2e8f908fc60b9a929a41",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "18276dcbb34f99d6a5756e200f38f2a45c5e469415f6332d05a55c7116202546"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "f9d2ba7d641537e1dc544ecaf7e3008ac0d065fec799fc99b5ac1ded6d4cbcad",
+      "image": "parts/oobb_part_plate_u_7_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        88.98,
+        15.0
+      ],
+      "key": "a4ba8bb8cccda0cbd00c0f83",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "28795c03840b25dcbf21e52f1d9b2b32fc4a0a675867e46d54ca72d8ecd1cdaa"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "1853449a6f88fcd8fd288467a18dd3fed39733556fbbb5d1014bd40c18dd4ee8",
+      "image": "parts/oobb_part_plate_u_7_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        88.98,
+        3.0
+      ],
+      "key": "c5b2afe941e1e5375cf58a6f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "385e4359e642cad78485d6dc65edd790db0c1c8a3a5f3b0ddc97ed9ef458edfe"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "8b30267ce61e8b26f51c6cc9fddf9ed43ff7240e558fc2ace095ccf27e62cf3b",
+      "image": "parts/oobb_part_plate_u_7_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        103.98,
+        15.0
+      ],
+      "key": "2420d489fc36a0d3119009a5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "23b9e25a6445839fae6cf2d755a4b3c7357adfa673296a9a711ceb81b38379a6"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "6fa97b0054aea2464025c4aee50bc5184777f2969fe6522042103ad0ec4c5889",
+      "image": "parts/oobb_part_plate_u_7_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        103.98,
+        3.0
+      ],
+      "key": "c719a104fb60f24fb298a795",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "cd87ebb0d01d705d5ebaf079f106e3b3c0f0b3db1047ee2aff36165b56d566df"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "04e2f9c7b7bd7b1b76039275f921be24c9236f90caa344164a746ce587c68f28",
+      "image": "parts/oobb_part_plate_u_7_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        118.98,
+        15.0
+      ],
+      "key": "5850f0c035573defa4e91d95",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "c1cfce657001ad56cfcfefb8a35d22d04abdf660aec24bba11acba19220d1cf7"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "ccbfaaf831f35ccd4198dfef0bac5a7d9ab02362c81fd1c6b761e7cd9707e50b",
+      "image": "parts/oobb_part_plate_u_7_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        118.98,
+        3.0
+      ],
+      "key": "9da1c0652916060601248863",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "1fa10df9a6e582e41a136d84d4d661654dd3f14251c1e048b2e1f615b00adbce"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "e13586489ca10ad908e56c9ebccbf4fd061606e7689f5fddb80db43164334e3e",
+      "image": "parts/oobb_part_plate_u_7_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        133.98,
+        15.0
+      ],
+      "key": "70026ddbb938481d16f851bb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "8f63f645af0ad5d5c6dfa2111eb8d1a796586c1d47cdece626709620c0f3374e"
+    },
+    {
+      "id": "oobb_part_plate_u_7_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_7_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "f9249f43f8031bd679e40506b9f45f49066273ae4605bbe4fba659ff8abfcc81",
+      "image": "parts/oobb_part_plate_u_7_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        104.0,
+        133.98,
+        3.0
+      ],
+      "key": "0b8bc7eb6a8ad16b85bc59a9",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 7 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "9985c9a3096274fe4c4dd56a98acda88a110abd75121065e490ece7e0edf7830"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "ec5c089c6b2ed4cf423887db615f0d5b109a35910cea1da3d6f0cbecc61e4534",
+      "image": "parts/oobb_part_plate_u_8_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        148.98,
+        15.0
+      ],
+      "key": "e95cd11f245681356214ea70",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "dc59933eb4ee07d0f0db595875ba858be4aa4c7939ced896d01264524a4bf809"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "bbcd6e6a0b5b062854b8ab0be0084ea37fe509b580b14aedfebc0d3bee46a20f",
+      "image": "parts/oobb_part_plate_u_8_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        148.98,
+        3.0
+      ],
+      "key": "b5ec482b1984dc83ca88de97",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "1cd27bfdcf1e309b8a580c140bf4809924ea4beb14f0fc1dffcaa58c9a7cde65"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "75686f910266a70fc9e187c9de0f001c1cbdd99bf099e99f16a9bb44a6ef1caa",
+      "image": "parts/oobb_part_plate_u_8_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        43.98,
+        15.0
+      ],
+      "key": "41e08635e1f0c9cb90c38673",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "fccc17b9424aacc4e972eb3e13c3718d289aa1cdb9d95a31a262aa39057b19a5"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "a0d27e236cb3acb274a4d772ffa8186b03815361fd6ba643ecf450532b5280ef",
+      "image": "parts/oobb_part_plate_u_8_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        43.98,
+        3.0
+      ],
+      "key": "e31436429259c3de19ef2c86",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "15b7efdb40141db59d65527195ff02445de4af8fbb1057902959564211d979e7"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "6cd3f72913e2d34e61b2cacf3e8b7df98538a2b958ad36fff5f00942fc86cff8",
+      "image": "parts/oobb_part_plate_u_8_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        58.98,
+        15.0
+      ],
+      "key": "e1ed6a407e198871ea118d2f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "9cc394e039f264ef3d5af40ca3a9b7ecf00a07ac96148e5eb50c8bab0bc15b6a"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "2a75b0eb1e1d27dd5f33cd41cb986d83596885e9dca6dc4ca5256784ee56a412",
+      "image": "parts/oobb_part_plate_u_8_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        58.98,
+        3.0
+      ],
+      "key": "f321d75465d99977e9b1ee2b",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "6005cc43f95a3d1c553dde0bc9df541f5842189420628350700f21e308a111b2"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "4289afef1c1a9a839c58ccd3dff94cc25c877d3e867f80f61bf88b562ad1f31f",
+      "image": "parts/oobb_part_plate_u_8_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        73.98,
+        15.0
+      ],
+      "key": "812a5ac2f3f32d7f8df44981",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "135298a25f36895ba66c681c4e356c25b63624ba8cc88a65b8d8c788d44b7941"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "1230d8c5ad4d40bc8344b7b831eec6db523c69da9c6c36e81f3c63f20113928b",
+      "image": "parts/oobb_part_plate_u_8_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        73.98,
+        3.0
+      ],
+      "key": "4f924dd175150b922154bb33",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "c0918c63b50adce45e855c7685d0736594e355982a9055e1778fc95574c19d46"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "ded8a429a3f17e3541b3ede2e474ea8e68131ad8f2edffabe73a8ab882c96bab",
+      "image": "parts/oobb_part_plate_u_8_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        88.98,
+        15.0
+      ],
+      "key": "1556ebc4078d8393e0453330",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "0ae343476fe648f65905c4c9e2eb8197054dadb350675248a18e2c26ea655072"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "b5977b411e8b532f9439b8d26cd1ae88485195db5fdeb9afeac2ca687c71b388",
+      "image": "parts/oobb_part_plate_u_8_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        88.98,
+        3.0
+      ],
+      "key": "911e103d94162feaec0bcc8b",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "946b5e034fa80b31069c644bd9b98aeb04a59f60f4dc0433b48a8e73862629ac"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "daf71de6a6bafa3e266df519dcfd8c46066ee087cec1741793d701b0ade80661",
+      "image": "parts/oobb_part_plate_u_8_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        103.98,
+        15.0
+      ],
+      "key": "9f56dec5c923ae91d3101dde",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "b8dad3f942cd53c904d5729a6361881ddebfdc12862e49a51524604ca7aaa22a"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "84f6c0bf1d50f101fc337fc1bc6d57c8da1fde213b211623d1e4bd430ee20353",
+      "image": "parts/oobb_part_plate_u_8_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        103.98,
+        3.0
+      ],
+      "key": "a6ec39f92777e51f89bd8863",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "488ebb9244d10e40735faa13d59ab34fbdbd4b940724d4a99bb26a1cd688e5a3"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "69cc3cbab0846b77b45725876294c4382cc322ac3ba7cfeeef18be027a307fd8",
+      "image": "parts/oobb_part_plate_u_8_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        118.98,
+        15.0
+      ],
+      "key": "c2dabea4f598349d76ff24c6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "ae0127c76cb306ea67f3b4db652f73cd121ecaa6f9c5180137cde805960d31b9"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "2486f3499358b86bdba0597b742d5cec6a33362cf1cbffbb68644f8839b594c7",
+      "image": "parts/oobb_part_plate_u_8_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        118.98,
+        3.0
+      ],
+      "key": "2bf0ae08cc924b55d3581d2e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "9381af83056ea7669b4d584e877a249af6c20c8235a8e039bdd4142f0149cee0"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "f0c9f67eff0ed073bb292bf4811858850c879840d51bfb4ce87dfaff4d6ff976",
+      "image": "parts/oobb_part_plate_u_8_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        133.98,
+        15.0
+      ],
+      "key": "2127c7e206fbe26be2cfb7a6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "4c33884770239615e68f15171865212b2afeb5261740e6e0db723c8397436ecd"
+    },
+    {
+      "id": "oobb_part_plate_u_8_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_8_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "d41d2da346a19f9732a3651569b735330bf716f855d1bb54b6379c81ae5bf7e5",
+      "image": "parts/oobb_part_plate_u_8_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        119.0,
+        133.98,
+        3.0
+      ],
+      "key": "3e64e3db2013a3a41b182ddb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 8 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "690865e559270bb93d094837784db36c5dfdfb9c0a48d2bbcdb1888fb4bf6775"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_10_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_10_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "3d55c0009f466d6ba2cbc67a989cc5ae5bf68f6c98ecb33cdd44f571af7a94e2",
+      "image": "parts/oobb_part_plate_u_9_width_10_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        148.98,
+        15.0
+      ],
+      "key": "f2180bab65c3ee18a981ec25",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 10 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "a6138e040ae4a649d6cbf2f8b2a5d1bb304ab97b403e69b2184d8064853b962f"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_10_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_10_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "61753ad5782f51e9a2fe0b5375142898faf2c70199b23959094c747c10cd90a1",
+      "image": "parts/oobb_part_plate_u_9_width_10_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        148.98,
+        3.0
+      ],
+      "key": "f3551ab8fab16554cc049c9a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 10 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "c233ca70eaa248ea29fa30b9584f527d66aee48b82b1f800877cce2cf6f7e084"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_3_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_3_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "606979f5e3f427b71d6a81e9afcb5be0c5dfc7457c8cb068a3473ad186f4fdcd",
+      "image": "parts/oobb_part_plate_u_9_width_3_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        43.98,
+        15.0
+      ],
+      "key": "f1d4783ac3414b5067bf8a15",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 3 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "7dcda58e39758b76b2148f16a640900ac7255347e170d5c3afc0941d2ae64f86"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_3_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_3_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "13da5787b84d68ce46ccda97573bbdb54c90a91aeae2fff1c2522046625bc969",
+      "image": "parts/oobb_part_plate_u_9_width_3_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        43.98,
+        3.0
+      ],
+      "key": "f0c15296b3efb09c5974e737",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 3 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "2294dcffc26fbacc26fa797ec55a251e11a4ae230f27ebfe720f482e44a0cbfc"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_4_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_4_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "1eb22af1ea710f6e6e0f37e44f82fb7bf22cb5d0f4ce1050e18e9367b834f504",
+      "image": "parts/oobb_part_plate_u_9_width_4_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        58.98,
+        15.0
+      ],
+      "key": "bb4779979c99b2b590ab2d9c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 4 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "2d66411ace49af1c8e6b5814a09d8c60cac36482ce63bb3a13385ab099bc2118"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_4_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_4_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "90b455fe32bd71b82900ca629323dc51b733bbb74f60e0c38fc9e35d16b38a34",
+      "image": "parts/oobb_part_plate_u_9_width_4_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        58.98,
+        3.0
+      ],
+      "key": "89a7b40b52232d4a23a10da9",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 4 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "9ad6e9906d2bc549a7d249bdffdd3768a632b2382e6b534f9341cfd20c698e4b"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_5_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_5_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "1af4fa9510b14e87a56f3ba09f90441d111cac54230a5cbb944fe6f4544004e2",
+      "image": "parts/oobb_part_plate_u_9_width_5_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        73.98,
+        15.0
+      ],
+      "key": "91f4159d66c4e601f12fbe43",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 5 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "098fa24ac68d8528335fc965b8871c09d9bc17269076cdf91ab42dad534960ee"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_5_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_5_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "7737d46319572c99b923f526b011bda2913f9d8cb65b2806801da9ac31b12270",
+      "image": "parts/oobb_part_plate_u_9_width_5_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        73.98,
+        3.0
+      ],
+      "key": "6db4e388d4435e175e3b62ff",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 5 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "dfdeb00d4c66f50dccc6b3980ca00eee37af20d2088abc7dee4b388e9dfdf657"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_6_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_6_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "099332a1507506178ee2e8152154befdb719a9bbf12985564772daf8c29ece86",
+      "image": "parts/oobb_part_plate_u_9_width_6_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        88.98,
+        15.0
+      ],
+      "key": "b2ab2925cb46661a051764d4",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 6 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "8a110e1702bc3fc0d37d499908aaa0db35be9fc4ed60e9b0f31725c07bef5021"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_6_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_6_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "34890986edc267c6ff8833115ab9c47b8dd88945ecba25eccf6c471ebd57ec53",
+      "image": "parts/oobb_part_plate_u_9_width_6_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        88.98,
+        3.0
+      ],
+      "key": "a58ffba213503c5fafa01bbf",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 6 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "9eb6eeb7a12094d85c4b8bc882fa2d8ad75d12101f22587612d3d6eee9a0d7f3"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_7_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_7_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "763813f20d0fca80b962383a1e4abab5f3241d68f9ffe86bc38c1c6c6362108a",
+      "image": "parts/oobb_part_plate_u_9_width_7_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        103.98,
+        15.0
+      ],
+      "key": "d2c3b1d9294513f8cd21644e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 7 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "4572fe73d0c6604b24b0e54e4dcdf5c46ba5a794fd60d8b061a0eae1428d6a59"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_7_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_7_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "1d7f5bac35b5381603c3df91d5e430b7d6c633ef0fb392e077a94891d3aba08c",
+      "image": "parts/oobb_part_plate_u_9_width_7_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        103.98,
+        3.0
+      ],
+      "key": "a7e8504d8a2d0bd3354b0603",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 7 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "2db4fdc434fd2be16852afd5868b69919f515b1871af74ff6f150a90105d2f9e"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_8_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_8_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "42afed755dafdc25354e58f439edfd9f9a21b00684012e3a0dd9ee2910fd505a",
+      "image": "parts/oobb_part_plate_u_9_width_8_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        118.98,
+        15.0
+      ],
+      "key": "15fbcd35d197caa8f31756d5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 8 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "eb14a795828a2295d276482a4d84e0c471aa6dbfe98e4a8e9aa7aed8f4a02b2f"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_8_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_8_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "f757cda2c8ce94bb62d8fcf9bc29c9b19c55f6cb682a5256904eb2b0ea74b56a",
+      "image": "parts/oobb_part_plate_u_9_width_8_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        118.98,
+        3.0
+      ],
+      "key": "cff991129199836fc4f7d269",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 8 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "72604093b50229055e8124fee2d09b44e5b2b49f26525e355f3b18f2bcc0519f"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_9_height_15_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_9_height_15_mm_depth/3dpr.stl",
+      "source_sha256": "76bfd2c005654b412f6728e2d278eb5f5901ea1a3bfad2731a06a8e80b27eb0d",
+      "image": "parts/oobb_part_plate_u_9_width_9_height_15_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        133.98,
+        15.0
+      ],
+      "key": "838dd395749f39ac319b8e1d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 9 Height 15 Mm Depth \u2014 Print layout",
+      "image_sha256": "4be02aee40be8bd9e7a971a6b0463eea0536663bfe5bb8846685c444c80de5e3"
+    },
+    {
+      "id": "oobb_part_plate_u_9_width_9_height_3_mm_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_plate_u_9_width_9_height_3_mm_depth/3dpr.stl",
+      "source_sha256": "8d98b811bfa0d92b515b58f4e9853ebd273b2c7a19d636434c695ab64ea3d2b4",
+      "image": "parts/oobb_part_plate_u_9_width_9_height_3_mm_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        134.0,
+        133.98,
+        3.0
+      ],
+      "key": "b08840a92ac66984e0fbfab7",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Plate U 9 Width 9 Height 3 Mm Depth \u2014 Print layout",
+      "image_sha256": "ff6516bd3ae2a65b108f7fecf7f5012b4d4be23627fe0c71d249188d3fc6b50a"
+    }
+  ]
+}
